@@ -1,0 +1,9 @@
+F:\Documenti\CustomProjects\TDD\GreetingKata\bin\Debug\netstandard2.1\GreetingKata.deps.json
+F:\Documenti\CustomProjects\TDD\GreetingKata\bin\Debug\netstandard2.1\GreetingKata.dll
+F:\Documenti\CustomProjects\TDD\GreetingKata\bin\Debug\netstandard2.1\GreetingKata.pdb
+F:\Documenti\CustomProjects\TDD\GreetingKata\obj\Debug\netstandard2.1\GreetingKata.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\GreetingKata\obj\Debug\netstandard2.1\GreetingKata.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\GreetingKata\obj\Debug\netstandard2.1\GreetingKata.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\GreetingKata\obj\Debug\netstandard2.1\GreetingKata.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\GreetingKata\obj\Debug\netstandard2.1\GreetingKata.dll
+F:\Documenti\CustomProjects\TDD\GreetingKata\obj\Debug\netstandard2.1\GreetingKata.pdb

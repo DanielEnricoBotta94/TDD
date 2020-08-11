@@ -1,0 +1,9 @@
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\bin\Debug\netstandard2.1\RomanToDecimal.deps.json
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\bin\Debug\netstandard2.1\RomanToDecimal.dll
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\bin\Debug\netstandard2.1\RomanToDecimal.pdb
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.dll
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.pdb

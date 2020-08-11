@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=407c166b_002Df024_002D41a1_002Dadcc_002Dfaa5946e524a/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="3" Name="MultipleAnyLengthDelimeter" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4FC825E9-4FDD-4CA9-9B5E-9333C46C7E5C::.NETCoreApp,Version=v3.1::TestStringCalculator.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AE7B4BBC-75DE-4EE2-816D-0F8CEAF83AB3::.NETCoreApp,Version=v3.1::TestRomanToDecimal.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AE7B4BBC-75DE-4EE2-816D-0F8CEAF83AB3::.NETCoreApp,Version=v3.1::TestRomanToDecimal.SymbolTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=59da8bcf_002D31a1_002D461e_002D99cf_002D45f396197c45/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Symbol_I_Addiction" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::AE7B4BBC-75DE-4EE2-816D-0F8CEAF83AB3::.NETCoreApp,Version=v3.1::TestRomanToDecimal.ConversionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::AE7B4BBC-75DE-4EE2-816D-0F8CEAF83AB3::.NETCoreApp,Version=v3.1::TestRomanToDecimal.SymbolTest.GreaterThan&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74b999fb_002Dee42_002D4d6e_002Dab24_002D55a37f97b087/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="3" Name="Basic_Greeting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::56A748EC-BA14-4254-9BC4-4C652BDDAB0E::.NETCoreApp,Version=v3.1::GreetingKataTest.UnitTest1.Basic_Greeting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::56A748EC-BA14-4254-9BC4-4C652BDDAB0E::.NETCoreApp,Version=v3.1::GreetingKataTest.UnitTest1.Null_Greeting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::56A748EC-BA14-4254-9BC4-4C652BDDAB0E::.NETCoreApp,Version=v3.1::GreetingKataTest.UnitTest1.Shout_Greeting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3c12033_002D6a4e_002D4a1d_002D9d2e_002D715d1e9c9bac/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="2" Name="Non_Cap_List_Greeting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::56A748EC-BA14-4254-9BC4-4C652BDDAB0E::.NETCoreApp,Version=v3.1::GreetingKataTest.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ed43579c_002D09d0_002D4b0d_002Da748_002Dcf491478fc10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4FC825E9-4FDD-4CA9-9B5E-9333C46C7E5C::.NETCoreApp,Version=v3.1::TestStringCalculator.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

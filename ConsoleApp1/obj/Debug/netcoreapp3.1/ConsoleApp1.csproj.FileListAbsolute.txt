@@ -1,0 +1,16 @@
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\StringCalculator.dll
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\Documenti\CustomProjects\TDD\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
