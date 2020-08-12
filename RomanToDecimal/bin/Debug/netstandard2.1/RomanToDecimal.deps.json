@@ -8,14 +8,27 @@
     ".NETStandard,Version=v2.1": {},
     ".NETStandard,Version=v2.1/": {
       "RomanToDecimal/1.0.0": {
+        "dependencies": {
+          "Utilities": "1.0.0"
+        },
         "runtime": {
           "RomanToDecimal.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "runtime": {
+          "Utilities.dll": {}
         }
       }
     }
   },
   "libraries": {
     "RomanToDecimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -905,11 +905,24 @@
       "RomanToDecimal/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Utilities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/RomanToDecimal.dll": {}
         },
         "runtime": {
           "bin/placeholder/RomanToDecimal.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilities.dll": {}
         }
       }
     }
@@ -3475,6 +3488,11 @@
       "type": "project",
       "path": "../RomanToDecimal/RomanToDecimal.csproj",
       "msbuildProject": "../RomanToDecimal/RomanToDecimal.csproj"
+    },
+    "Utilities/1.0.0": {
+      "type": "project",
+      "path": "../Utilities/Utilities.csproj",
+      "msbuildProject": "../Utilities/Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {

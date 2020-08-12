@@ -31,6 +31,67 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "projectReferences": {
+              "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj": {
+                "projectPath": "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\daniel.botta\\.nuget\\packages\\",
+        "outputPath": "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniel.botta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://mtfs:8080/tfs/DefaultCollection/_packaging/MainStreamingCoreFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/1c69L3wiZf7p7zaDMkXFHhXKO3y32BkSE7SgC5ViEesdjLylhq/api": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
             "projectReferences": {}
           }
         },

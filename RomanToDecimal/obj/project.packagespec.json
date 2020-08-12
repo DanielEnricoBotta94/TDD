@@ -20,7 +20,11 @@
     },
     "frameworks": {
       "netstandard2.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj": {
+            "projectPath": "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

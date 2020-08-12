@@ -1,0 +1,9 @@
+F:\Documenti\CustomProjects\TDD\Extensions\bin\Debug\netstandard2.1\Extensions.deps.json
+F:\Documenti\CustomProjects\TDD\Extensions\bin\Debug\netstandard2.1\Extensions.dll
+F:\Documenti\CustomProjects\TDD\Extensions\bin\Debug\netstandard2.1\Extensions.pdb
+F:\Documenti\CustomProjects\TDD\Extensions\obj\Debug\netstandard2.1\Extensions.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\Extensions\obj\Debug\netstandard2.1\Extensions.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\Extensions\obj\Debug\netstandard2.1\Extensions.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\Extensions\obj\Debug\netstandard2.1\Extensions.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\Extensions\obj\Debug\netstandard2.1\Extensions.dll
+F:\Documenti\CustomProjects\TDD\Extensions\obj\Debug\netstandard2.1\Extensions.pdb

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETStandard,Version=v2.1": {
+      "Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Utilities/1.0.0": {
+      "type": "project",
+      "path": "../Utilities/Utilities.csproj",
+      "msbuildProject": "../Utilities/Utilities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": []
+    ".NETStandard,Version=v2.1": [
+      "Utilities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\daniel.botta\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj": {
+              "projectPath": "F:\\Documenti\\CustomProjects\\TDD\\Utilities\\Utilities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -690,8 +690,16 @@
         }
       },
       "RomanToDecimal/1.0.0": {
+        "dependencies": {
+          "Utilities": "1.0.0"
+        },
         "runtime": {
           "RomanToDecimal.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "runtime": {
+          "Utilities.dll": {}
         }
       }
     }
@@ -1053,6 +1061,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
     "RomanToDecimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

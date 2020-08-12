@@ -96,3 +96,5 @@ F:\Documenti\CustomProjects\TDD\TestRomanToDecimal\obj\Debug\netcoreapp3.1\TestR
 F:\Documenti\CustomProjects\TDD\TestRomanToDecimal\obj\Debug\netcoreapp3.1\TestRomanToDecimal.dll
 F:\Documenti\CustomProjects\TDD\TestRomanToDecimal\obj\Debug\netcoreapp3.1\TestRomanToDecimal.pdb
 F:\Documenti\CustomProjects\TDD\TestRomanToDecimal\obj\Debug\netcoreapp3.1\TestRomanToDecimal.genruntimeconfig.cache
+F:\Documenti\CustomProjects\TDD\TestRomanToDecimal\bin\Debug\netcoreapp3.1\Utilities.dll
+F:\Documenti\CustomProjects\TDD\TestRomanToDecimal\bin\Debug\netcoreapp3.1\Utilities.pdb

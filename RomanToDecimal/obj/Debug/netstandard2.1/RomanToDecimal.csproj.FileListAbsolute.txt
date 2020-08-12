@@ -7,3 +7,6 @@ F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToD
 F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.csproj.CoreCompileInputs.cache
 F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.dll
 F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.pdb
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\obj\Debug\netstandard2.1\RomanToDecimal.csproj.CopyComplete
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\bin\Debug\netstandard2.1\Utilities.dll
+F:\Documenti\CustomProjects\TDD\RomanToDecimal\bin\Debug\netstandard2.1\Utilities.pdb

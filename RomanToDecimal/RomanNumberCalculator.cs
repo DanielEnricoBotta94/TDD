@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Extensions;
+using Enum = Extensions.Enum;
 
 namespace RomanToDecimal
 {
@@ -8,16 +10,14 @@ namespace RomanToDecimal
     {
         public static int Convert(string input)
         {
-            var convertedList = new List<int>();
-            input.ToList().ForEach(f =>
-            {
-                convertedList.Add((int)Enum.Parse(typeof(ERomanNumber), f.ToString()));
-            });
-
-            convertedList.Reverse();
+            var convertedList = input
+                .ToList()
+                .Select(f => Enum.Parse<int>(typeof(ERomanNumber), f))
+                .Reverse()
+                .ToList();
 
             var result = 0;
-            for (var i = 0; i < convertedList.Count; i += 2)
+            for (var i = 0; i < convertedList.Count(); i += 2)
             {
                 result += convertedList
                     .Skip(i)
@@ -32,6 +32,7 @@ namespace RomanToDecimal
             return result;
         }
     }
+    
     
     public enum ERomanNumber
     {
