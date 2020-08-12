@@ -52,6 +52,23 @@
         <e p="UnitTest1.cs" t="Include" />
       </e>
       <e p="Libraries" t="Include" />
+      <e p="MarkovChain" t="Include" />
+      <e p="MarkovChainTextGenerator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="dante-full.txt" t="Include" />
+        <e p="dante.cantoprimo.txt" t="Include" />
+        <e p="Manager.cs" t="Include" />
+        <e p="MarkovChainTextGenerator.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="MarkovChainTextGenerator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="State.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="RomanToDecimal" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -89,6 +106,19 @@
           </e>
         </e>
         <e p="TestFizzBuzz.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TestMarkovChain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ManagerTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TestMarkovChain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StateTest.cs" t="Include" />
+        <e p="TestMarkovChain.csproj" t="IncludeRecursive" />
       </e>
       <e p="TestRomanToDecimal" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />

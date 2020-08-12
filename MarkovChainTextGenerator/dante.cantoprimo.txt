@@ -1,0 +1,30 @@
+﻿Un amministratore di sistema, o amministratore di sistema, è una persona responsabile della manutenzione, configurazione e funzionamento affidabile dei sistemi informatici; in particolare i computer multiutente, come i server. L'amministratore di sistema cerca di garantire che il tempo di attività, le prestazioni, le risorse, e la sicurezza dei computer che gestiscono soddisfano le esigenze degli utenti, senza superare un budget prestabilito nel farlo.
+Per soddisfare queste esigenze, un amministratore di sistema può acquisire, installare o aggiornare componenti e software del computer; fornire automazione di routine; mantenere le politiche di sicurezza; risolvere i problemi; formare o supervisionare il personale; o offrire supporto tecnico per i progetti.
+
+Campi correlati
+Il personale di molte organizzazioni offre lavori relativi all'amministrazione del sistema: in un'azienda più grande, questi possono essere tutti posizioni separate all'interno di un reparto di supporto informatico o di servizi informativi (IS), mentre in un gruppo più piccolo possono essere condivisi da pochi amministratori di sistema o anche da un singolo persona.
+
+Un amministratore di database (DBA) gestisce un sistema di database ed è responsabile dell'integrità dei dati e dell'efficienza e delle prestazioni del sistema.
+Un amministratore di rete gestisce l'infrastruttura di rete come switch e router e diagnostica i problemi con questi o con il comportamento dei computer collegati alla rete.
+Un amministratore della sicurezza è uno specialista nella sicurezza del computer e della rete, inclusa l'amministrazione dei dispositivi di sicurezza come i firewall, nonché la consulenza sulle misure di sicurezza generali.
+Un amministratore Web gestisce i servizi del server Web (come Apache o IIS) che consentono l'accesso interno o esterno ai siti Web. I compiti includono la gestione di più siti, il supporto della sicurezza e la configurazione dei componenti e del software necessari. Le responsabilità possono anche includere la gestione delle modifiche del software.
+Un operatore di computer esegue la manutenzione e la manutenzione di routine, come la sostituzione dei nastri di backup o la sostituzione di unità guaste in un array ridondante di dischi indipendenti (RAID). Tali attività richiedono solitamente la presenza fisica nella stanza con il computer e, sebbene siano meno competenti delle attività di amministratore di sistema, potrebbe richiedere un livello di fiducia simile, poiché l'operatore ha accesso a dati potenzialmente sensibili.
+Un ingegnere dell'affidabilità del sito SRE: adotta un approccio ingegneristico o programmatico alla gestione dei sistemi.
+Formazione
+Un uomo che parla da un podio a una stanza di persone con computer portatili
+Formazione a una conferenza sull'amministrazione del sistema
+La maggior parte dei datori di lavoro richiede una laurea in un campo correlato, come l'informatica, la tecnologia dell'informazione, l'ingegneria elettronica o l'ingegneria informatica.Alcune scuole offrono anche lauree e programmi di laurea in amministrazione del sistema.
+
+Inoltre, a causa della natura pratica dell'amministrazione del sistema e della facile disponibilità di software server open source, molti amministratori di sistema entrano nel campo da autodidatti.
+
+In genere, un potenziale dipendente dovrà avere una certa esperienza con il sistema informatico che dovrebbe gestire.In alcuni casi, i candidati devono possedere certificazioni di settore come Microsoft MCSA, MCSE, MCITP, Red Hat RHCE, Novell CNA, CNE, Cisco CCNA o CompTIA's A + o Network +, Sun Certified SCNA, Linux Professional Institute, Linux Foundation Certified Engineer o Linux Foundation Certified System Administrator, tra gli altri.
+
+A volte, quasi esclusivamente in siti più piccoli, il ruolo di amministratore di sistema può essere assegnato a un utente esperto in aggiunta o in sostituzione dei suoi compiti.
+
+Abilità
+Parte di questa sezione è tratta dall'Occupational Outlook Handbook, edizione 2010-11, che è di pubblico dominio come opera del governo degli Stati Uniti.
+L'oggetto dell'amministrazione del sistema include i sistemi informatici e il modo in cui le persone li usano in un'organizzazione, ciò comporta una conoscenza dei sistemi operativi e delle applicazioni, nonché la risoluzione dei problemi hardware e software, ma anche la conoscenza degli scopi per i quali le persone nell'organizzazione utilizzano i computer.
+
+Forse l'abilità più importante per un amministratore di sistema è la risoluzione dei problemi, spesso sotto vari tipi di vincoli e stress. L'amministratore di sistema è a disposizione quando un sistema informatico si blocca o non funziona correttamente e deve essere in grado di diagnosticare rapidamente e correttamente cosa non va e come. Potrebbe anche essere necessario avere capacità di comunicazione e lavoro di squadra, oltre ad essere in grado di installare e configurare hardware e software.
+
+Gli amministratori di sistema devono comprendere il comportamento del software al fine di distribuirlo e risolvere i problemi e generalmente conoscono diversi linguaggi di programmazione utilizzati per lo scripting o l'automazione delle attività di routine.Il ruolo tipico dell'amministratore di sistema non è quello di progettare o scrivere nuovo software applicativo ma quando sono responsabili per automatizzare la configurazione del sistema o dell'applicazione con vari strumenti di gestione della configurazione, le linee sono leggermente sfocate. A seconda del ruolo e delle competenze dell'amministratore di sistema

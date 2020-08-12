@@ -1,0 +1,13 @@
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\bin\Debug\netcoreapp3.1\MarkovChainTextGenerator.exe
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\bin\Debug\netcoreapp3.1\MarkovChainTextGenerator.deps.json
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\bin\Debug\netcoreapp3.1\MarkovChainTextGenerator.runtimeconfig.json
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\bin\Debug\netcoreapp3.1\MarkovChainTextGenerator.runtimeconfig.dev.json
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\bin\Debug\netcoreapp3.1\MarkovChainTextGenerator.dll
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\bin\Debug\netcoreapp3.1\MarkovChainTextGenerator.pdb
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\obj\Debug\netcoreapp3.1\MarkovChainTextGenerator.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\obj\Debug\netcoreapp3.1\MarkovChainTextGenerator.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\obj\Debug\netcoreapp3.1\MarkovChainTextGenerator.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\obj\Debug\netcoreapp3.1\MarkovChainTextGenerator.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\obj\Debug\netcoreapp3.1\MarkovChainTextGenerator.dll
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\obj\Debug\netcoreapp3.1\MarkovChainTextGenerator.pdb
+F:\Documenti\CustomProjects\TDD\MarkovChainTextGenerator\obj\Debug\netcoreapp3.1\MarkovChainTextGenerator.genruntimeconfig.cache
