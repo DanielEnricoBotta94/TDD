@@ -12,6 +12,21 @@
     <e p="C:\Users\daniel.botta\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
     <e p="C:\Users\daniel.botta\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_TDD.1873041829.00" t="ExcludeRecursive" />
     <e p="F:\Documenti\CustomProjects\TDD" t="IncludeFlat">
+      <e p="FizzBuzz" t="Include">
+        <e p="FizzBuzz" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="FizzBuzz.cs" t="Include" />
+          <e p="FizzBuzz.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="FizzBuzz.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+        </e>
+      </e>
       <e p="GreetingKata" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Greeting.cs" t="Include" />
@@ -63,6 +78,18 @@
         <e p="StringCalculator.csproj" t="IncludeRecursive" />
       </e>
       <e p="TDD.sln" t="IncludeFlat" />
+      <e p="TestFizzBuzz" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FizzBuzz.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TestFizzBuzz.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestFizzBuzz.csproj" t="IncludeRecursive" />
+      </e>
       <e p="TestRomanToDecimal" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConvertionTest.cs" t="Include" />

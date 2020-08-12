@@ -4,7 +4,7 @@ namespace Extensions
 {
     public static class Enum
     {
-        public static object Parse(Type type, char c)
+        private static object Parse(Type type, char c)
         {
             return System.Enum.Parse(type, c.ToString());
         }

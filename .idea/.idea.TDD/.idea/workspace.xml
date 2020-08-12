@@ -19,83 +19,81 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa6229fd-16e9-4192-9176-98c7cc91fc72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extensions/obj/Extensions.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extensions/obj/Extensions.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extensions/obj/Extensions.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extensions/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extensions/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/Utilities.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/Utilities.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/Enum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/Utilities.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Extensions.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Utilities.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Utilities.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Extensions.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Extensions.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Extensions.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/Extensions.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/project.packagespec.json" afterDir="false" />
+    <list default="true" id="17ef42af-1119-4b38-af2a-d280a317b1e5" name="Default Changelist" comment="Refactored romans. Added Enum to Utilities">
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/FizzBuzz.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/FizzBuzz.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netstandard2.1/FizzBuzz.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netstandard2.1/FizzBuzz.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/FizzBuzz.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/TestFizzBuzz.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/Debug/netcoreapp3.1/TestFizzBuzz.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/Debug/netcoreapp3.1/TestFizzBuzz.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/Debug/netcoreapp3.1/TestFizzBuzz.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/TestFizzBuzz.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/TestFizzBuzz.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GreetingKata/obj/Debug/netstandard2.1/GreetingKata.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GreetingKata/obj/Debug/netstandard2.1/GreetingKata.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GreetingKataTest/obj/Debug/netcoreapp3.1/GreetingKataTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GreetingKataTest/obj/Debug/netcoreapp3.1/GreetingKataTest.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/RomanNumberCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/RomanNumberCalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/RomanToDecimal.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/RomanToDecimal.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/RomanToDecimal.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/RomanToDecimal.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/RomanToDecimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/RomanToDecimal.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/RomanToDecimal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/RomanToDecimal.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/bin/Debug/netstandard2.1/Utilities.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/RomanToDecimal.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/RomanToDecimal.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StringCalculator/obj/Debug/netstandard2.1/StringCalculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator/obj/Debug/netstandard2.1/StringCalculator.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TDD.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TDD.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/RomanToDecimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/RomanToDecimal.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/RomanToDecimal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/RomanToDecimal.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/TestRomanToDecimal.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/TestRomanToDecimal.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/TestRomanToDecimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/TestRomanToDecimal.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/TestRomanToDecimal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/TestRomanToDecimal.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/bin/Debug/netcoreapp3.1/Utilities.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/TestRomanToDecimal.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/TestRomanToDecimal.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/bin/Debug/netcoreapp3.1/TestStringCalculator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/bin/Debug/netcoreapp3.1/TestStringCalculator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/bin/Debug/netcoreapp3.1/TestStringCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/bin/Debug/netcoreapp3.1/TestStringCalculator.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/Enum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/Enum.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/bin/Debug/netstandard2.1/Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,14 +106,20 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/GreetingKata/Greeting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StringCalculator/StringCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RomanToDecimal/RomanNumberCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GreetingKataTest/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestRomanToDecimal/SymbolTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///RomanNumberCalculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestRomanToDecimal/ConvertionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/52B82C28-59AD-42B4-A74A-A51A769C2E77/46/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StringCalculator/StringCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FizzBuzz/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestRomanToDecimal/SymbolTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///RomanNumberCalculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utilities/Enum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestFizzBuzz/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -142,8 +146,17 @@
         <option value="$PROJECT_DIR$/RomanToDecimal/EnumExtension.cs" />
         <option value="$PROJECT_DIR$/Extensions/EnumExtension.cs" />
         <option value="$PROJECT_DIR$/Extensions/Enum.cs" />
-        <option value="$PROJECT_DIR$/Utilities/Enum.cs" />
         <option value="$PROJECT_DIR$/RomanToDecimal/RomanNumberCalculator.cs" />
+        <option value="$PROJECT_DIR$/Utilities/Enum.cs" />
+        <option value="$PROJECT_DIR$/FizzBuzz/Class1.cs" />
+        <option value="$PROJECT_DIR$/FizzBuzz/TestFizzBuzz/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/TestFizzBuzz/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/FizzBuzz/Runner.cs" />
+        <option value="$PROJECT_DIR$/TestFizzBuzz/FizzBuzzConverter.cs" />
+        <option value="$PROJECT_DIR$/FizzBuzz/FizzBuzz/FizzBuzzConverter.cs" />
+        <option value="$PROJECT_DIR$/TestFizzBuzz/FizzBuzz.cs" />
+        <option value="$PROJECT_DIR$/FizzBuzz/FizzBuzz/FizzBuzz.cs" />
+        <option value="$PROJECT_DIR$/FizzBuzz/FizzBuzz/Program.cs" />
       </list>
     </option>
   </component>
@@ -168,14 +181,14 @@
   </component>
   <component name="RunManager" selected=".NET Project.ConsoleApp1">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp3.1" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FizzBuzz/FizzBuzz/FizzBuzz.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -206,10 +219,10 @@
     <option name="version" value="2" />
   </component>
   <component name="UnitTestsCoverage.Settings">
-    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="coveragePercentColumnWidth" value="124" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="129" />
+    <option name="symbolColumnWidth" value="107" />
     <coverage-tree-state>
       <expand>
         <path>
@@ -232,16 +245,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="134" key="#ConsoleApp1" timestamp="1597157390226">
+    <state x="525" y="134" key="#ConsoleApp1" timestamp="1597220765318">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="525" y="134" key="#ConsoleApp1/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597157390226" />
+    <state x="525" y="134" key="#ConsoleApp1/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597220765318" />
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597220762786">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597220762786" />
     <state x="574" y="412" key="#xdebugger.evaluate" timestamp="1597158594895">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -250,22 +268,22 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="473" height="464" key="DebuggerActiveHint/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597158840343" />
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom" timestamp="1597162699027">
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom" timestamp="1597226567845">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597162699027" />
-    <state width="1637" height="275" key="GridCell.Tab.0.center" timestamp="1597162699027">
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597226567845" />
+    <state width="1637" height="275" key="GridCell.Tab.0.center" timestamp="1597226567845">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597162699027" />
-    <state width="1637" height="275" key="GridCell.Tab.0.left" timestamp="1597162699027">
+    <state width="1637" height="275" key="GridCell.Tab.0.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597226567845" />
+    <state width="1637" height="275" key="GridCell.Tab.0.left" timestamp="1597226567845">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597162699027" />
-    <state width="1637" height="275" key="GridCell.Tab.0.right" timestamp="1597162699027">
+    <state width="1637" height="275" key="GridCell.Tab.0.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597226567845" />
+    <state width="1637" height="275" key="GridCell.Tab.0.right" timestamp="1597226567845">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597162699027" />
+    <state width="1637" height="275" key="GridCell.Tab.0.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597226567845" />
     <state width="1637" height="367" key="GridCell.Tab.1.bottom" timestamp="1597162699021">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -330,10 +348,10 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1637" height="367" key="GridCell.Tab.4.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597162699022" />
-    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size" timestamp="1597218916107">
+    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size" timestamp="1597220743643">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597218916107" />
+    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597220743643" />
     <state x="341" y="154" key="SettingsEditor" timestamp="1597160298831">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
