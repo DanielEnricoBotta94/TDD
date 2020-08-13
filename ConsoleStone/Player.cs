@@ -8,7 +8,8 @@ namespace ConsoleStone
     public class Player
     {
         public int Health { get; set; } = 30;
-        public int Mana { get; set; } = 0;
+        public int TotalMana { get; set; } = 0;
+        public int AvailableMana { get; set; } = 0;
         public List<Card> Deck { get; private set; }
         public List<Card> Hand { get; private set; }
         public Guid Id { get; } = Guid.NewGuid();
@@ -34,6 +35,27 @@ namespace ConsoleStone
                 .ToList()
                 .Shuffle()
                 .ToList();
+        }
+
+        public int GainManaSlot()
+        {
+            return TotalMana >= 10 
+                ? TotalMana 
+                : ++TotalMana;
+        }
+
+        public int UseMana(int useMana)
+        {
+            if(AvailableMana < useMana)
+                throw new Exception("Not enough mana!");
+            AvailableMana -= useMana;
+            return AvailableMana;
+        }
+
+        public int RefillMana()
+        {
+            AvailableMana = TotalMana;
+            return AvailableMana;
         }
     }
 }

@@ -1,4 +1,3 @@
-using System;
 using System.Linq;
 using ConsoleStone;
 using Xunit;
@@ -20,7 +19,7 @@ namespace TestConsoleStone
         public void NewGamePlayerMana()
         {
             var game = Game.CreateInstance();
-            Assert.True(game.Players.All(a => a.Mana == 0));
+            Assert.True(game.Players.All(a => a.TotalMana == 0));
 
         }
         

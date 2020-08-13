@@ -11,3 +11,6 @@ F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleSton
 F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.dll
 F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.pdb
 F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.genruntimeconfig.cache
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\Utilities.dll
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\Utilities.pdb
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.csproj.CopyComplete

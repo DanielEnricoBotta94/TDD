@@ -97,3 +97,5 @@ F:\Documenti\CustomProjects\TDD\TestConsoleStone\obj\Debug\netcoreapp3.1\TestCon
 F:\Documenti\CustomProjects\TDD\TestConsoleStone\obj\Debug\netcoreapp3.1\TestConsoleStone.dll
 F:\Documenti\CustomProjects\TDD\TestConsoleStone\obj\Debug\netcoreapp3.1\TestConsoleStone.pdb
 F:\Documenti\CustomProjects\TDD\TestConsoleStone\obj\Debug\netcoreapp3.1\TestConsoleStone.genruntimeconfig.cache
+F:\Documenti\CustomProjects\TDD\TestConsoleStone\bin\Debug\netcoreapp3.1\Utilities.dll
+F:\Documenti\CustomProjects\TDD\TestConsoleStone\bin\Debug\netcoreapp3.1\Utilities.pdb
