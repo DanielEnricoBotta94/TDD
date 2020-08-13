@@ -20,145 +20,143 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17ef42af-1119-4b38-af2a-d280a317b1e5" name="Default Changelist" comment="Added the FizzBuzz TDD project">
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/Manager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/MarkovChainTextGenerator.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/State.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/dante-full.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/dante.cantoprimo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/ManagerTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/StateTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/TestMarkovChain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/TestMarkovChain.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/TestMarkovChain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/TestMarkovChain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/TestMarkovChain.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/TestMarkovChain.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/testhost.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/TestMarkovChain.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/TestMarkovChain.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/Card.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/ConsoleStone.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/Game.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/ConsoleStone.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/ConsoleStone.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/Program.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/CardTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/GameTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/PlayerTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/TestConsoleStone.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/TestConsoleStone.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/TestConsoleStone.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/TestConsoleStone.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/TestConsoleStone.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/TestConsoleStone.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/testhost.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/xunit.abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/xunit.assert.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/xunit.core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/TestConsoleStone.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/TestConsoleStone.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/Linq.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GreetingKataTest/obj/Debug/netcoreapp3.1/GreetingKataTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GreetingKataTest/obj/Debug/netcoreapp3.1/GreetingKataTest.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringCalculator/obj/Debug/netstandard2.1/StringCalculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator/obj/Debug/netstandard2.1/StringCalculator.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TDD.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD.sln.DotSettings" beforeDir="false" afterPath="$PROJECT_DIR$/TDD.sln.DotSettings" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TDD.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,12 +167,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/GreetingKata/Greeting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MarkovChainTextGenerator/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MarkovChainTextGenerator/Manager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MarkovChainTextGenerator/State.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestMarkovChain/ManagerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestConsoleStone/GameTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RomanToDecimal/RomanNumberCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GreetingKataTest/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -182,19 +176,28 @@
     <setting file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/52B82C28-59AD-42B4-A74A-A51A769C2E77/46/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestMarkovChain/StateTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StringCalculator/StringCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FizzBuzz/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleStone/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleStone/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestConsoleStone/CardTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleStone/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestFizzBuzz/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GreetingKata/Greeting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MarkovChainTextGenerator/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MarkovChainTextGenerator/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestMarkovChain/ManagerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utilities/Linq.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestConsoleStone/PlayerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleStone/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestRomanToDecimal/SymbolTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utilities/Enum.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestFizzBuzz/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GreetingKata/Class1.cs" />
-        <option value="$PROJECT_DIR$/GreetingKataTest/Greeting.cs" />
-        <option value="$PROJECT_DIR$/GreetingKata/Greeting.cs" />
         <option value="$PROJECT_DIR$/GreetingKataTest/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/StringCalculator/Class1.cs" />
         <option value="$PROJECT_DIR$/StringCalculator/TestStringCalculator/StringCalculator.cs" />
@@ -232,10 +235,20 @@
         <option value="$PROJECT_DIR$/MarkovChainTextGenerator/input.txt" />
         <option value="$PROJECT_DIR$/TestMarkovChain/StateTest.cs" />
         <option value="$PROJECT_DIR$/TestMarkovChain/ManagerTest.cs" />
-        <option value="$PROJECT_DIR$/MarkovChainTextGenerator/dante.cantoprimo.txt" />
         <option value="$PROJECT_DIR$/MarkovChainTextGenerator/Manager.cs" />
         <option value="$PROJECT_DIR$/MarkovChainTextGenerator/State.cs" />
+        <option value="$PROJECT_DIR$/MarkovChainTextGenerator/dante.cantoprimo.txt" />
         <option value="$PROJECT_DIR$/MarkovChainTextGenerator/Program.cs" />
+        <option value="$PROJECT_DIR$/TestConsoleStone/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/TestConsoleStone/Game.cs" />
+        <option value="$PROJECT_DIR$/TestConsoleStone/CardTest.cs" />
+        <option value="$PROJECT_DIR$/TestConsoleStone/GameTest.cs" />
+        <option value="$PROJECT_DIR$/ConsoleStone/Program.cs" />
+        <option value="$PROJECT_DIR$/Utilities/Linq.cs" />
+        <option value="$PROJECT_DIR$/TestConsoleStone/PlayerTest.cs" />
+        <option value="$PROJECT_DIR$/ConsoleStone/Card.cs" />
+        <option value="$PROJECT_DIR$/ConsoleStone/Player.cs" />
+        <option value="$PROJECT_DIR$/ConsoleStone/Game.cs" />
       </list>
     </option>
   </component>
@@ -256,9 +269,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="RiderDotCoverContinuousTestingPageId" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected=".NET Project.Markov">
+  <component name="RunManager" selected=".NET Project.ConsoleStone\ConsoleStone">
+    <configuration name="ConsoleStone\ConsoleStone" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1/ConsoleStone.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleStone/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleStone/ConsoleStone.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Markov" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/MarkovChainTextGenerator/bin/Debug/netcoreapp3.1/MarkovChainTextGenerator.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -277,6 +308,11 @@
         <option name="Build" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.ConsoleStone\ConsoleStone" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -294,7 +330,7 @@
       <workItem from="1597240564109" duration="1707000" />
       <workItem from="1597242293856" duration="3089000" />
       <workItem from="1597250469160" duration="383000" />
-      <workItem from="1597250865669" duration="298000" />
+      <workItem from="1597250865669" duration="5112000" />
     </task>
     <task id="LOCAL-00001" summary="Added the FizzBuzz TDD project">
       <created>1597226741268</created>
@@ -310,15 +346,56 @@
     <option name="version" value="2" />
   </component>
   <component name="UnitTestsCoverage.Settings">
-    <option name="coveragePercentColumnWidth" value="122" />
+    <option name="coveragePercentColumnWidth" value="118" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="121" />
+    <option name="symbolColumnWidth" value="110" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
           <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="172" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="172" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="170" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="172" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="170" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="178" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="172" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="170" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="178" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="200" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="172" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="170" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="174" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="172" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="170" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="174" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="175" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
@@ -349,106 +426,110 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="525" y="134" key="#ConsoleApp1/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597220765318" />
-    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597249242503">
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597313901933">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597249242503" />
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597313901933" />
     <state x="574" y="412" key="#xdebugger.evaluate" timestamp="1597158594895">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="574" y="412" key="#xdebugger.evaluate/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597158594895" />
-    <state width="473" height="464" key="DebuggerActiveHint" timestamp="1597250650065">
+    <state width="473" height="464" key="DebuggerActiveHint" timestamp="1597315314408">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="473" height="464" key="DebuggerActiveHint/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250650065" />
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom" timestamp="1597251176279">
+    <state width="473" height="464" key="DebuggerActiveHint/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315314408" />
+    <state width="1637" height="367" key="GridCell.Tab.0.bottom" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597251176279" />
-    <state width="1637" height="275" key="GridCell.Tab.0.center" timestamp="1597251176279">
+    <state width="1637" height="367" key="GridCell.Tab.0.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.0.center" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597251176279" />
-    <state width="1637" height="275" key="GridCell.Tab.0.left" timestamp="1597251176279">
+    <state width="1637" height="367" key="GridCell.Tab.0.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.0.left" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597251176279" />
-    <state width="1637" height="275" key="GridCell.Tab.0.right" timestamp="1597251176279">
+    <state width="1637" height="367" key="GridCell.Tab.0.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.0.right" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597251176279" />
-    <state width="1637" height="367" key="GridCell.Tab.1.bottom" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.0.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.1.bottom" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.1.center" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.1.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.1.center" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.1.left" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.1.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.1.left" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.1.right" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.1.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.1.right" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.2.bottom" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.1.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.2.bottom" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.2.center" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.2.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.2.center" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.2.left" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.2.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.2.left" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.2.right" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.2.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.2.right" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.3.bottom" timestamp="1597250851885">
+    <state width="1637" height="367" key="GridCell.Tab.2.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.3.bottom" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851885" />
-    <state width="1637" height="367" key="GridCell.Tab.3.center" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.3.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.3.center" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.3.left" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.3.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.3.left" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.3.right" timestamp="1597250851884">
+    <state width="1637" height="367" key="GridCell.Tab.3.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.3.right" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851884" />
-    <state width="1637" height="367" key="GridCell.Tab.4.bottom" timestamp="1597250851885">
+    <state width="1637" height="367" key="GridCell.Tab.3.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.4.bottom" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851885" />
-    <state width="1637" height="367" key="GridCell.Tab.4.center" timestamp="1597250851885">
+    <state width="1637" height="367" key="GridCell.Tab.4.bottom/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.4.center" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851885" />
-    <state width="1637" height="367" key="GridCell.Tab.4.left" timestamp="1597250851885">
+    <state width="1637" height="367" key="GridCell.Tab.4.center/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.4.left" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851885" />
-    <state width="1637" height="367" key="GridCell.Tab.4.right" timestamp="1597250851885">
+    <state width="1637" height="367" key="GridCell.Tab.4.left/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state width="1637" height="367" key="GridCell.Tab.4.right" timestamp="1597315577363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597250851885" />
-    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size" timestamp="1597227229050">
+    <state width="1637" height="367" key="GridCell.Tab.4.right/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597315577363" />
+    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size" timestamp="1597311652363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597227229050" />
-    <state x="341" y="154" key="SettingsEditor" timestamp="1597160298831">
+    <state x="432" y="241" key="Rider.ProjectTemplateDialog.Size/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597311652363" />
+    <state x="550" y="199" key="RiderGenerateDialog" timestamp="1597312120150">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="341" y="154" key="SettingsEditor/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597160298831" />
+    <state x="550" y="199" key="RiderGenerateDialog/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597312120149" />
+    <state x="341" y="154" key="SettingsEditor" timestamp="1597314451541">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="341" y="154" key="SettingsEditor/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597314451541" />
     <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1597226743607">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -461,9 +542,9 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="496" y="235" key="run.anything.popup/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597159238794" />
-    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1597229833853">
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1597314394457">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597229833853" />
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597314394457" />
   </component>
 </project>

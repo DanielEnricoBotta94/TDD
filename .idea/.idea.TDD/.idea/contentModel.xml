@@ -12,6 +12,21 @@
     <e p="C:\Users\daniel.botta\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
     <e p="C:\Users\daniel.botta\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_TDD.1873041829.00" t="ExcludeRecursive" />
     <e p="F:\Documenti\CustomProjects\TDD" t="IncludeFlat">
+      <e p="ConsoleStone" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Card.cs" t="Include" />
+        <e p="ConsoleStone.csproj" t="IncludeRecursive" />
+        <e p="Game.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ConsoleStone.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Player.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="FizzBuzz" t="Include">
         <e p="FizzBuzz" t="IncludeRecursive">
           <e p="bin" t="ExcludeRecursive" />
@@ -67,6 +82,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Program.zip" t="Include" />
         <e p="State.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
@@ -95,6 +111,20 @@
         <e p="StringCalculator.csproj" t="IncludeRecursive" />
       </e>
       <e p="TDD.sln" t="IncludeFlat" />
+      <e p="TestConsoleStone" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CardTest.cs" t="Include" />
+        <e p="GameTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TestConsoleStone.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayerTest.cs" t="Include" />
+        <e p="TestConsoleStone.csproj" t="IncludeRecursive" />
+      </e>
       <e p="TestFizzBuzz" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="FizzBuzz.cs" t="Include" />
@@ -148,6 +178,7 @@
       <e p="Utilities" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Enum.cs" t="Include" />
+        <e p="Linq.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netstandard2.1" t="Include">

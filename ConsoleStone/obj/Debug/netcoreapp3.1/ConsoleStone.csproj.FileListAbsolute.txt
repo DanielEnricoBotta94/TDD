@@ -1,0 +1,13 @@
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\ConsoleStone.exe
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\ConsoleStone.deps.json
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\ConsoleStone.runtimeconfig.json
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\ConsoleStone.runtimeconfig.dev.json
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\ConsoleStone.dll
+F:\Documenti\CustomProjects\TDD\ConsoleStone\bin\Debug\netcoreapp3.1\ConsoleStone.pdb
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.dll
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.pdb
+F:\Documenti\CustomProjects\TDD\ConsoleStone\obj\Debug\netcoreapp3.1\ConsoleStone.genruntimeconfig.cache
