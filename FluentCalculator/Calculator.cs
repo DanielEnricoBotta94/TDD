@@ -6,8 +6,9 @@ namespace FluentCalculator
     public class Calculator : ISeed, IPlus, IMinus, IRedo, ISave
     {
         private int Value { get; set; }
-        private Stack<int> Stack { get; set; } = new Stack<int>();
-        private Stack<int> RedoStack { get; set; } = new Stack<int>();
+        private Stack<int> Stack { get; } = new Stack<int>();
+        private Stack<int> RedoStack { get; } = new Stack<int>();
+
         public ISeed Seed(int seed)
         {
             Value = seed;
@@ -25,7 +26,7 @@ namespace FluentCalculator
             Stack.Push(-minus);
             return this;
         }
-        
+
         IUndo IControl.Undo()
         {
             if (!Stack.Any())
@@ -33,7 +34,7 @@ namespace FluentCalculator
             RedoStack.Push(Stack.Pop());
             return this;
         }
-        
+
         IRedo IUndo.Redo()
         {
             if (!RedoStack.Any())
@@ -41,24 +42,18 @@ namespace FluentCalculator
             Stack.Push(RedoStack.Pop());
             return this;
         }
-        
+
         ISave IOperation.Save()
         {
-            Result();
-            Stack.Clear();
-            RedoStack.Clear();
+            ((IBase)this).Result();
             return this;
         }
 
         int IBase.Result()
         {
-            return Result();
-        }
-
-        private int Result()
-        {
             Value += Stack.Sum();
             Stack.Clear();
+            RedoStack.Clear();
             return Value;
         }
     }

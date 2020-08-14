@@ -22,305 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17ef42af-1119-4b38-af2a-d280a317b1e5" name="Default Changelist" comment="Arrived at point 4 of the clone specifics">
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/Brackets.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/Brackets.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/bin/Debug/netstandard2.1/Brackets.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/bin/Debug/netstandard2.1/Brackets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/bin/Debug/netstandard2.1/Brackets.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Brackets.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Brackets.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Brackets.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/Debug/netstandard2.1/Brackets.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Brackets/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/TestBrackets.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Brackets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Brackets.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/TestBrackets.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/TestBrackets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/TestBrackets.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/TestBrackets.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/TestBrackets.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/testhost.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/Debug/netcoreapp3.1/TestBrackets.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/TestBrackets.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/TestBrackets.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/TestBrackets/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/Brackets.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/Debug/netcoreapp3.1/Brackets.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/Debug/netcoreapp3.1/Brackets.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/Debug/netcoreapp3.1/Brackets.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/Debug/netcoreapp3.1/Brackets.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brackets/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleStone/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/Calculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/FluentCalculator.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/ICalculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/bin/Debug/netstandard2.1/FluentCalculator.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/bin/Debug/netstandard2.1/FluentCalculator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/bin/Debug/netstandard2.1/FluentCalculator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/Debug/netstandard2.1/FluentCalculator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/FluentCalculator.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/FluentCalculator.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FluentCalculator/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingKata/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingKataTest/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RomanToDecimal/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringCalculator/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestConsoleStone/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFizzBuzz/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/CalculatorTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/TestFluentCalculator.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/FluentCalculator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/FluentCalculator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/TestFluentCalculator.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/TestFluentCalculator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/TestFluentCalculator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/TestFluentCalculator.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/TestFluentCalculator.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/testhost.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/Debug/netcoreapp3.1/TestFluentCalculator.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/TestFluentCalculator.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/TestFluentCalculator.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFluentCalculator/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestMarkovChain/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="17ef42af-1119-4b38-af2a-d280a317b1e5" name="Default Changelist" comment="Fluent Calculator completed with Plus and Minus">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleStone/obj/Debug/netcoreapp3.1/ConsoleStone.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GreetingKata/obj/Debug/netstandard2.1/GreetingKata.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GreetingKata/obj/Debug/netstandard2.1/GreetingKata.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GreetingKataTest/obj/Debug/netcoreapp3.1/GreetingKataTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GreetingKataTest/obj/Debug/netcoreapp3.1/GreetingKataTest.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MarkovChainTextGenerator/obj/Debug/netcoreapp3.1/MarkovChainTextGenerator.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToDecimal/obj/Debug/netstandard2.1/RomanToDecimal.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringCalculator/obj/Debug/netstandard2.1/StringCalculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator/obj/Debug/netstandard2.1/StringCalculator.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TDD.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TDD.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FluentCalculator/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FluentCalculator/Calculator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TDD.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestConsoleStone/obj/Debug/netcoreapp3.1/TestConsoleStone.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestMarkovChain/obj/Debug/netcoreapp3.1/TestMarkovChain.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestRomanToDecimal/obj/Debug/netcoreapp3.1/TestRomanToDecimal.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestStringCalculator/TestStringCalculator/obj/Debug/netcoreapp3.1/TestStringCalculator.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/obj/Debug/netstandard2.1/Utilities.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,8 +119,8 @@
         <option value="$PROJECT_DIR$/TestFluentCalculator/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/TestFluentCalculator/Calculator.cs" />
         <option value="$PROJECT_DIR$/FluentCalculator/ISeed.cs" />
-        <option value="$PROJECT_DIR$/TestFluentCalculator/CalculatorTest.cs" />
         <option value="$PROJECT_DIR$/FluentCalculator/ICalculator.cs" />
+        <option value="$PROJECT_DIR$/TestFluentCalculator/CalculatorTest.cs" />
         <option value="$PROJECT_DIR$/FluentCalculator/Calculator.cs" />
       </list>
     </option>
@@ -518,7 +223,7 @@
       <workItem from="1597242293856" duration="3089000" />
       <workItem from="1597250469160" duration="383000" />
       <workItem from="1597250865669" duration="10515000" />
-      <workItem from="1597408344521" duration="6122000" />
+      <workItem from="1597408344521" duration="7771000" />
     </task>
     <task id="LOCAL-00001" summary="Added the FizzBuzz TDD project">
       <created>1597226741268</created>
@@ -541,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597321785660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fluent Calculator completed with Plus and Minus">
+      <created>1597414628613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597414628613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,12 +263,38 @@
     <option name="coveragePercentColumnWidth" value="122" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="171" />
+    <option name="symbolColumnWidth" value="199" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 12% 671/759" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 11% 674/757" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 11% 674/757" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Fluent 94% 5/88" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 11% 674/757" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Fluent 94% 5/88" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="FluentCalculator 88% 5/40" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 11% 674/757" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Fluent 94% 5/88" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="FluentCalculator 88% 5/40" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="FluentCalculator 88% 5/40" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 11% 674/757" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Fluent 94% 5/88" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="FluentCalculator 88% 5/40" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="FluentCalculator 88% 5/40" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator 88% 5/40" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
@@ -582,7 +320,8 @@
     <MESSAGE value="Added the FizzBuzz TDD project" />
     <MESSAGE value="Created basic Hearthstone Clone using TDD" />
     <MESSAGE value="Arrived at point 4 of the clone specifics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrived at point 4 of the clone specifics" />
+    <MESSAGE value="Fluent Calculator completed with Plus and Minus" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fluent Calculator completed with Plus and Minus" />
   </component>
   <component name="WindowStateProjectService">
     <state x="525" y="134" key="#ConsoleApp1" timestamp="1597220765318">
@@ -697,10 +436,14 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="341" y="154" key="SettingsEditor/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597321685602" />
-    <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1597321789103">
+    <state x="92" y="92" width="1496" height="836" key="VCS.FileHistoryDialog" timestamp="1597416652237">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="432" y="242" key="Vcs.Push.Dialog.v2/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597321789103" />
+    <state x="92" y="92" width="1496" height="836" key="VCS.FileHistoryDialog/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597416652237" />
+    <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1597414631531">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="242" key="Vcs.Push.Dialog.v2/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597414631531" />
     <state x="482" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597320702363">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -709,9 +452,9 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="496" y="235" key="run.anything.popup/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597159238794" />
-    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1597321727706">
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1597414716394">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597321727706" />
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/1680.18.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1597414716394" />
   </component>
 </project>
