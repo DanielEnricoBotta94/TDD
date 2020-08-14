@@ -1,0 +1,9 @@
+F:\Documenti\CustomProjects\TDD\FluentCalculator\bin\Debug\netstandard2.1\FluentCalculator.deps.json
+F:\Documenti\CustomProjects\TDD\FluentCalculator\bin\Debug\netstandard2.1\FluentCalculator.dll
+F:\Documenti\CustomProjects\TDD\FluentCalculator\bin\Debug\netstandard2.1\FluentCalculator.pdb
+F:\Documenti\CustomProjects\TDD\FluentCalculator\obj\Debug\netstandard2.1\FluentCalculator.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\FluentCalculator\obj\Debug\netstandard2.1\FluentCalculator.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\FluentCalculator\obj\Debug\netstandard2.1\FluentCalculator.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\FluentCalculator\obj\Debug\netstandard2.1\FluentCalculator.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\FluentCalculator\obj\Debug\netstandard2.1\FluentCalculator.dll
+F:\Documenti\CustomProjects\TDD\FluentCalculator\obj\Debug\netstandard2.1\FluentCalculator.pdb

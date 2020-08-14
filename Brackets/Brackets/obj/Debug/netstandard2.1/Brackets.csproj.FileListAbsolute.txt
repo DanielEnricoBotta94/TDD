@@ -1,0 +1,9 @@
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\bin\Debug\netstandard2.1\Brackets.deps.json
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\bin\Debug\netstandard2.1\Brackets.dll
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\bin\Debug\netstandard2.1\Brackets.pdb
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\obj\Debug\netstandard2.1\Brackets.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\obj\Debug\netstandard2.1\Brackets.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\obj\Debug\netstandard2.1\Brackets.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\obj\Debug\netstandard2.1\Brackets.csproj.CoreCompileInputs.cache
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\obj\Debug\netstandard2.1\Brackets.dll
+F:\Documenti\CustomProjects\TDD\Brackets\Brackets\obj\Debug\netstandard2.1\Brackets.pdb

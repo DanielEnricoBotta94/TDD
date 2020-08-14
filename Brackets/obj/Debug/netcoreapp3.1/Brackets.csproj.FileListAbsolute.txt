@@ -1,0 +1,4 @@
+F:\Documenti\CustomProjects\TDD\Brackets\obj\Debug\netcoreapp3.1\Brackets.csprojAssemblyReference.cache
+F:\Documenti\CustomProjects\TDD\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfoInputs.cache
+F:\Documenti\CustomProjects\TDD\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfo.cs
+F:\Documenti\CustomProjects\TDD\Brackets\obj\Debug\netcoreapp3.1\Brackets.csproj.CoreCompileInputs.cache
